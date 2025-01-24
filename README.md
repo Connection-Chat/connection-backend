@@ -1,6 +1,6 @@
 ## How to run the application:
 
- - Run this command `git clone https://github.com/Connection-Chat/connection-frontend.git`;
+ - Run this command `git clone https://github.com/Connection-Chat/connection-backend.git`;
  - `cd connection-backend`;
  - `npm i`;
  - To start the server, run this command `npm start`;
