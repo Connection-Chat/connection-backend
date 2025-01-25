@@ -30,4 +30,5 @@ NODE_ENV=development
 * Cloudinary;
 * bcryptjs;
 * MongoDB;
+* mongoose;
 * and other...;
